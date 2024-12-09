@@ -13,6 +13,9 @@ This application offers a seamless and intuitive user experience for efficient p
 
 # Hosting
 You can access the live version of the project at the following URL:
+
+[Pizza-Store](https://pizza-store-rust.vercel.app/)
+
 # User Interfaces
 #### Home page
 <img src="https://github.com/user-attachments/assets/598dc476-275b-4b0f-b7ee-649201060409" width="850" height="450">
